@@ -1,11 +1,13 @@
 +++
-weight = 999
+weight = 20
 title = "Dictionary of Kink Terminology"
 description = ""
-icon = "article"
 date = "2026-02-18T21:07:31-05:00"
 lastmod = "2026-02-18T21:07:31-05:00"
 toc = true
+
+[params]
+    menuPre = '<i class="fa fa-book" aria-hidden="true"></i>'
 +++
 
 ## General Terms
@@ -16,8 +18,6 @@ Any individual that takes on a role (top/bottom, dom/sub, etc.) for the benefit 
 **Note:** Motivations for being a Service-Type varies between individuals, although general consensus is that they find enjoyment in being able to provide the service, and not directly from the act itself.
 
 ### Kink Relationship Dynamics
-
-+++
 
 _Power Exchange_  
 Negotiated power imbalance, sometimes referred to as Authority Transfer.

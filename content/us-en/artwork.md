@@ -2,7 +2,7 @@
 weight = 999
 title = "Artwork"
 description = "Gallery of Official Artwork"
-icon = "article"
+
 toc = true
 
 [params]

@@ -1,9 +1,11 @@
 +++
-weight = 999
+weight = 10
 title = "Kink 101"
 description = ""
-icon = "article"
 date = "2026-02-18T20:48:25-05:00"
 lastmod = "2026-02-18T20:48:25-05:00"
 toc = true
+
+[params]
+    menuPre = '<i class="fa fa-bookmark" aria-hidden="true"></i>'
 +++

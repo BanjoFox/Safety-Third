@@ -8,12 +8,7 @@
 #-
 # Bottom Nav Shortcuts/Links
 [[en.menu.shortcuts]]
-  pre = '<i class="fa-fw fas fa-puzzle-piece"></i> '
-  name = 'Relearn Docs'
-  url = 'https://mcshelby.github.io/hugo-theme-relearn/index.html'
-  weight = 20
-[[en.menu.shortcuts]]
   pre = '<i class="fa-fw fab fa-github"></i> '
   name = 'GitHub Repo'
-  url = 'https://github.com/McShelby/hugo-theme-relearn'
-  weight = 30
+  url = 'https://github.com/BanjoFox/SafetyThird'
+  weight = 20
