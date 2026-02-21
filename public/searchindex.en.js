@@ -65,7 +65,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "ABOUT The OFFICIAL(tm) SafetyThird badge art :D",
+    "content": "ABOUT The OFFICIAL(tm) Safety Third badge art :D",
     "description": "Gallery of Official Artwork",
     "tags": [],
     "title": "Artwork",
