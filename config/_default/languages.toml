@@ -1,0 +1,19 @@
+# showcase of the menu shortcuts;
+# you can use relative URLs linking to your content or use
+# fully-qualified URLs to link outside of your project
+
+  [en.params]
+    landingPageName = '<i class="fa fa-home" aria-hidden="true"></i> Home'
+
+#-
+# Bottom Nav Shortcuts/Links
+[[en.menu.shortcuts]]
+  pre = '<i class="fa-fw fas fa-puzzle-piece"></i> '
+  name = 'Relearn Docs'
+  url = 'https://mcshelby.github.io/hugo-theme-relearn/index.html'
+  weight = 20
+[[en.menu.shortcuts]]
+  pre = '<i class="fa-fw fab fa-github"></i> '
+  name = 'GitHub Repo'
+  url = 'https://github.com/McShelby/hugo-theme-relearn'
+  weight = 30

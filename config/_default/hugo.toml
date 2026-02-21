@@ -1,0 +1,29 @@
+#-
+# Hugo Configuration
+baseURL = 'https://safetythird.netlify.app/'
+logo = { src = '/images/logo.svg?inlinecontent', direction = 'row' }
+
+#-
+# Language Settings
+[languages]
+  [languages.en]
+    title = 'Safety Third'
+    weight = 1
+    languageCode = 'en'
+    languageName = 'English'
+    # Language dependent settings:
+    # Use case https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+    contentDir = 'content/us-en'
+
+#-
+# Output Formats
+[outputs]
+  home = ['html', 'rss', 'print'] 
+  page = ['html', 'print']
+  section = ['html', 'rss', 'print']
+
+#-
+# REQUIRED: Relearn as Hugo module
+[module]
+  [[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'

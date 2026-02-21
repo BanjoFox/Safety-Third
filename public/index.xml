@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safety Third</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>This is your new home page.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Feb 2026 21:07:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dictionary of Kink Terminology</title>
+      <link>http://localhost:1313/02-dictionary-of-kink/index.html</link>
+      <pubDate>Wed, 18 Feb 2026 21:07:31 -0500</pubDate>
+      <guid>http://localhost:1313/02-dictionary-of-kink/index.html</guid>
+      <description>General Terms Service (Role) or Service-Type&#xA;Any individual that takes on a role (top/bottom, dom/sub, etc.) for the benefit of another.&#xA;Note: Motivations for being a Service-Type varies between individuals, although general consensus is that they find enjoyment in being able to provide the service, and not directly from the act itself.&#xA;Kink Relationship Dynamics +++</description>
+    </item>
+    <item>
+      <title>Translations</title>
+      <link>http://localhost:1313/translations/index.html</link>
+      <pubDate>Wed, 18 Feb 2026 20:48:26 -0500</pubDate>
+      <guid>http://localhost:1313/translations/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploring D_s</title>
+      <link>http://localhost:1313/05-exploring-d_s/index.html</link>
+      <pubDate>Wed, 18 Feb 2026 20:48:25 -0500</pubDate>
+      <guid>http://localhost:1313/05-exploring-d_s/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kink 101</title>
+      <link>http://localhost:1313/01-kink-101/index.html</link>
+      <pubDate>Wed, 18 Feb 2026 20:48:25 -0500</pubDate>
+      <guid>http://localhost:1313/01-kink-101/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Risk Topics</title>
+      <link>http://localhost:1313/03-risk/index.html</link>
+      <pubDate>Wed, 18 Feb 2026 20:48:25 -0500</pubDate>
+      <guid>http://localhost:1313/03-risk/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Art of Negotiation</title>
+      <link>http://localhost:1313/04-art-of-negotiation/index.html</link>
+      <pubDate>Wed, 18 Feb 2026 20:47:42 -0500</pubDate>
+      <guid>http://localhost:1313/04-art-of-negotiation/index.html</guid>
+      <description>TODO Generic Negotiation Checklist Common Negotiation Terminology Examples for specific types of scenes Negotiation Checklist About this form:&#xA;The goal, and purpose of this document is to provide some insight, and perhaps inspiration or ideas when negotiating kink activities. This is by no means a complete list of all possibilities as such things would be nearly impossible to catalog. All individuals are unique, and as such all individuals will have requests, desires, and requirements which are unique to them. What is provided here is simply a place to start.</description>
+    </item>
+    <item>
+      <title>Dungeon Monitoring</title>
+      <link>http://localhost:1313/10-dungeon-monitoring/index.html</link>
+      <pubDate>Wed, 18 Feb 2026 20:47:42 -0500</pubDate>
+      <guid>http://localhost:1313/10-dungeon-monitoring/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/index.html</guid>
+      <description>About this Website</description>
+    </item>
+    <item>
+      <title>Artwork</title>
+      <link>http://localhost:1313/artwork/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artwork/index.html</guid>
+      <description>Gallery of Official Artwork</description>
+    </item>
+  </channel>
+</rss>
