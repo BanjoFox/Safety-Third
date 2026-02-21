@@ -1,5 +1,5 @@
 +++
-weight = 999
+weight = 40
 title = "Art of Negotiation"
 description = ""
 

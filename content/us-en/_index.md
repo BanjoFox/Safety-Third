@@ -9,18 +9,26 @@ This repository is currently organized into folders by subject. Where possible t
 
 Currently this includes the following content:
 
-Art of Negotiation
+## Kink 101
+
+- A slide presentation introducing folks to modern kink, and the community.
+
+## Dictionary of Kink
+
+- An ongoing document attempting to catalog many of the terms, and concepts used in modern kink communities.
+
+## Art of Negotiation
 
 - (Work-in-progress) Being able to negotiate is one of the primary skills required for healthy play. This content aims to serve as both a place to start for newbies, as well as bolster the skill for more experience kinksters.
 
-Exploring D/s
+## Exploring D/s
 
 - Exploring D/s was intended to be a class covering various types of kink dynamics, especially those relating to Domination/submission.
 
-Risk Profile Designer
+## Risk Profile Designer
 
 - A printable form to help folks understand what their personal risk acceptance/profile looks like.
 
-Risk Terminology and Examples
+## Risk Terminology and Examples
 
 - A very brief list of risk-related words, and phrases with examples as how they relate to kinky activities.
