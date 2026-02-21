@@ -54,7 +54,7 @@ linkTitle = "Safety Third"
 # layouts/partials/logo.html.
 # If you als print a `linkTitle` you can set the `direction` sub-field to
 # either `column` or `row` to arrange logo and title accordingly.
-logo = { src = '/images/logo.svg?inlinecontent', direction = 'row' }
+logo = { src = '/images/logo.svg', direction = 'column' }
 
 # Used color variants.
 # Default: 'auto'
