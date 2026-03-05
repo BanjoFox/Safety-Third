@@ -11,6 +11,11 @@ toc = true
     menuPre = '<i class="fa fa-bookmark" aria-hidden="true"></i>'
 +++
 
+{{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
+[(TBD) Safety Third Guide to Dungeon Monitoring (PDF)](downloads\Safety_Third_Guide_to_Dungeon_Monitoring.pdf?target=_blank)  
+[(TBD) Safety Third Guide to Dungeon Monitoring (MS Word)](downloads\Safety_Third_Guide_to_Dungeon_Monitoring.docx?target=_blank)
+{{% /notice %}}
+
 ## Introduction
 
 - Introducing thyself

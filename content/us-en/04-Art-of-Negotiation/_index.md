@@ -11,6 +11,11 @@ toc = true
     menuPre = '<i class="fa fa-bookmark" aria-hidden="true"></i>'
 +++
 
+{{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
+[(TBD) The Art of Negotiation (PDF)](downloads\The_Art_of_Negotiation.pdf?target=_blank)  
+[(TBD) The Art of Negotiation (MS Word)](downloads\The_Art_of_Negotiation.docx?target=_blank)
+{{% /notice %}}
+
 ## TODO
 
 - Generic Negotiation Checklist
