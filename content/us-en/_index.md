@@ -1,8 +1,8 @@
 +++
 type = "home"
 title = "Safety Third"
-description = "Open licenced resources for the Modern Kink community."\
-images = [/images/safety-third-hero_large.png]
+description = "Open licenced resources for the Modern Kink community."
+images = ['/images/safety-third-hero_large.png']
 +++
 
 ![Safety Third Logo](/images/safety-third_banner-logoless.svg?width=25vw)
