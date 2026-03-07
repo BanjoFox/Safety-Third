@@ -12,7 +12,7 @@ toc = true
 
 Please See
 
-[Risk Terminology](Risk-Terminology) for a review of terminology relating to risk.
+[Risk Terminology](Risk-Terminology) for a review of terminology relating to risk.  
 [Risk Profile Designer](Risk-Profile-Designer) for the Risk Profile Designer, to help you build a personal risk profile.
 
 ## About this section
