@@ -11,8 +11,6 @@ images = ['/images/og.png']
 
 Welcome to the home page of Safety Third's collection of openly licenced documents, aimed at providing FREE (as in beer) education and resources for the kink community.
 
-This repository is currently organized into folders by subject. Where possible the documents are available as plain text (Markdown), MS Word (docx), and PDF.
-
 Currently this includes the following content:
 
 ## [Kink 101](01-Kink-101)
