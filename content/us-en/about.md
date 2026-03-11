@@ -4,7 +4,7 @@ title = 'About'
 weight = 999
 
 [params]
-    menuPre = '<i class="fa-fw fas fa-info-circle"></i> '
+    menuPre = '<i class="fa-fw fas fa-info-circle" aria-hidden="true"></i> '
 +++
 
 ## What is Safety Third

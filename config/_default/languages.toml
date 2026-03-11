@@ -8,7 +8,13 @@
 #-
 # Bottom Nav Shortcuts/Links
 [[en.menu.shortcuts]]
-  pre = '<i class="fa-fw fab fa-github"></i> '
+  pre = '<i class="fa-fw fab fa-github" aria-hidden="true"></i> '
   name = 'GitHub Repo'
   url = 'https://github.com/BanjoFox/Safety-Third'
+  weight = 10
+
+[[en.menu.shortcuts]]
+  pre = '<i class="fa fa-shopping-bag" aria-hidden="true"></i> '
+  name = 'Safety Third Merch'
+  url = 'https://banjo-fox-shop.fourthwall.com/'
   weight = 20
