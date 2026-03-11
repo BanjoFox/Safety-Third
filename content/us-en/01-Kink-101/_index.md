@@ -11,6 +11,8 @@ toc = true
     
 +++
 
+## An introduction to alternative forms of adult play
+
 {{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
 [Safety Third Presents: Kink 101 (pdf)](downloads/Safety-Third-Presents_Kink-101.pdf?target=_blank)  
 [Safety Third Presents: Kink 101 (pptx)](downloads/Safety-Third-Presents_Kink-101.pptx?target=_blank)

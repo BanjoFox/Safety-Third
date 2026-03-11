@@ -1,5 +1,4 @@
 +++
-weight = 888
 title = "Introduction to Dungeon Monitoring"
 description = ""
 
