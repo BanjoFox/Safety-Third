@@ -1,5 +1,4 @@
 +++
-weight = 999
 title = "Translations"
 description = ""
 date = "2026-02-18T20:48:26-05:00"

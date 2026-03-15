@@ -1,3 +1,5 @@
+<div class="content-footer">
+
 {{- $LastModifierDisplayName := "" }}
 {{- $LastModifierEmail := "" }}
 {{- $Date := "" }}
@@ -35,17 +37,70 @@
   "icon" "layer-group"
 ) }}
 
-{{/* Custom content to add a "Report Issue" link to the bottom of the page. */}}
-{{ if .File }}
-<div class="contribute-links">
+{{/* Licence Block */}}
 
-<a href="https://github.com/BanjoFox/Safety-Third/issues/new?title=Docs:%20{{ .File.Path }}&body=Page:%20{{ .Permalink }}%0AFile:%20{{ .File.Path }}%0A%0ADescription:"
-   target="_blank"
-   rel="noopener">
 
-🐞 Report issue for this page
+<div class="doc-license">
 
-</a>
+  {{/*
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+     target="_blank"
+     rel="noopener license">
+
+    <img
+      src="{{ "images/licenses/by-nc-sa.svg" | relURL }}"
+      alt="Creative Commons BY-NC-SA License"
+      height="28"
+      loading="lazy">
+
+  </a>
+  */}}
+
+  <span>
+    Content licensed under
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+       target="_blank"
+       rel="noopener license">
+      CC BY-NC-SA 4.0
+    </a>
+  </span>
 
 </div>
-{{ end }}
+
+
+{{/* New Contributor Block */}}
+
+<div class="doc-contribute">
+
+  {{ if .File }}
+
+  <a
+    href="https://github.com/BanjoFox/Safety-Third/edit/main/content/{{ .File.Path }}"
+    target="_blank"
+    rel="noopener">
+
+    ✏️ Edit this page
+
+  </a>
+
+  <a
+    href="https://github.com/BanjoFox/Safety-Third/issues/new?title=Docs:%20{{ .File.Path | urlquery }}&body=Page:%20{{ .Permalink }}%0AFile:%20{{ .File.Path }}%0A%0ADescription:"
+    target="_blank"
+    rel="noopener">
+
+    🐞 Report issue
+
+  </a>
+
+  <a
+    href="https://github.com/BanjoFox/Safety-Third/blob/main/content/{{ .File.Path }}"
+    target="_blank"
+    rel="noopener">
+
+    📄 View source
+
+  </a>
+
+  {{ end }}
+
+</div>
