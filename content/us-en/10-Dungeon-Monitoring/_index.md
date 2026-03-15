@@ -11,7 +11,7 @@ toc = true
 +++
 
 {{% notice icon="fa fa-cloud-download" style="#00224cff" title="Downloadable Formats" expanded="false" %}}
-[(TBD) Safety Third Guide to Dungeon Monitoring (pdf)](under_construction)
+[(TBD) Safety Third Guide to Dungeon Monitoring (pdf)](under_construction)  
 [(TBD) Safety Third Guide to Dungeon Monitoring (docx)](under_construction)
 {{% /notice %}}
 
