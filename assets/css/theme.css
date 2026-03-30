@@ -3095,3 +3095,38 @@ body[data-theme='dark'] .card-container .card:hover,
   --VARIABLE-BOX-CAPTION-color: var(--VARIABLE-LINK-color);
   --VARIABLE-BOX-BG-color: var(--VARIABLE-LINK-color);
 }
+
+/* Custom CSS for license block (content-footer.html) */
+.doc-license {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+.doc-license img {
+  display: block;
+}
+
+/* Custom css for contributor block (content-footer.html */
+.doc-contribute {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin:auto;
+  font-size: 0.9rem;
+}
+
+.doc-contribute a {
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.doc-contribute a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
