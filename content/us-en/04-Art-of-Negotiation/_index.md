@@ -28,6 +28,8 @@ toc = true
 
 For each of the the hundreds if not thousands of scenes I have witnessed in all my years as a member of the modern kink community, I would put a heavy wager that every single one of those scenes began with: "I want". Although the exact phrasing may vary, the intention never does; Someone wants something from someone else. To the best of my knowledge, there is simply no other way to begin a negotiation. If you do not want something, then you are not going to pursue it, and if you do, then you have already begun the process of negotiating. Experienced individuals will likely be familiar with the next few stages of the process, although it may be worth revisiting to remind yourself about how you started out.
 
+Chances are good that this is not your first scene, and you already have a sense for how negotiations work.  Regardless there is never any harm in reviewing your skills.  Just like people, kinks evolve over time, and everyone does them in their own way.
+
 ### First Interaction
 
 Once a particular want or interest has been identified the next logical step is to convey that information to the individual you wish to interact with. How you approach the initial contact depends on a couple of questions:
@@ -43,4 +45,8 @@ How, and when you approach others is largely situational, but should be appropri
 
 - Do you have _experience_ with what you are wanting to partake in?
 
-[[To be Continued]]
+Experience will undoubtely shape the way you negotiate, and in many cases means that you may be tempted skip some of the inroductory questions an answer.  Unless those questions are very basic, for example "what is a single tail?", then it is still a best practice to do a quick review.
+
+For the un-initiated, or even if you are new to a particular type of scene, curiosity is often the ideal approach.  The more questios you ask, the better equipped you will be to decide whether or not you even wish to proceed.
+
+[ To be Continued ]
