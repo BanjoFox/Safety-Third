@@ -24,26 +24,29 @@ toc = true
 - [ ] Common Negotiation Terminology
 - [ ] Examples for specific types of scenes
 
-### Negotiation Checklist
+## The Art of Negotiation
 
-**About this form:**  
-The goal, and purpose of this document is to provide some insight, and perhaps inspiration or ideas when negotiating kink activities. This is by no means a complete list of all possibilities as such things would be nearly impossible to catalog. All individuals are unique, and as such all individuals will have requests, desires, and requirements which are unique to them. What is provided here is simply a place to start.
+For each of the the hundreds if not thousands of scenes I have witnessed in all my years as a member of the modern kink community, I would put a heavy wager that every single one of those scenes began with: "I want". Although the exact phrasing may vary, the intention never does; Someone wants something from someone else. To the best of my knowledge, there is simply no other way to begin a negotiation. If you do not want something, then you are not going to pursue it, and if you do, then you have already begun the process of negotiating. Experienced individuals will likely be familiar with the next few stages of the process, although it may be worth revisiting to remind yourself about how you started out.
 
-**Start Here\!**  
-(top) \- These items are for the Top (person giving the experience) to consider.  
-(bottom) \- These items are for the Bottom (person receiving the experience) to consider.  
-(both) \- Everyone should consider these items.
+Chances are good that this is not your first scene, and you already have a sense for how negotiations work. Regardless there is never any harm in reviewing your skills. Just like people, kinks evolve over time, and everyone does them in their own way.
 
-### Opening Questions (both)
+### First Interaction
 
-- How are you feeling right now?
-- Have you had something to eat/drink recently?
-- What type of scene(s) would you like to have?
-- Have you done this type of scene before?
-- What would you like to get out of the scene?
+Once a particular want or interest has been identified the next logical step is to convey that information to the individual you wish to interact with. How you approach the initial contact depends on a couple of questions:
 
-### Limitations (both)
+- Do you know them? | Have you met that individual previously?
+- Do you know what their interest(s) are?
 
-- What physical limitations do you have/need respected?
-- What mental limitations do you have/need respected?
--
+If the answer to both of these questions is "Yes" then it is time to consider further discussions.
+
+If the answer to either of those two questions is "No", then your next steps are to simply introduce yourself, if you have not already done so, and then simply ask them about what they are into. Discussions about kinky interests is almost always a back-and-forth so it is best to have ideas about what you want, or are interested in _trying_.
+
+How, and when you approach others is largely situational, but should be appropriate for the time, and place. For instance you should NEVER, under any circumstances approach someone while they are _in a scene_ or _during aftercare_. If instead you find them at a munch, or other kink-appropriate social gathering, then it much more socially acceptable to say hello, and proceed sharing your interests.
+
+- Do you have _experience_ with what you are wanting to partake in?
+
+Experience will undoubtedly shape the way you negotiate, and in many cases means that you may be tempted skip some of the introductory questions an answer. Questions such as "what is a single tail?" are likely candidates for being skipped, it is very important to remember that there are many approaches to kink even within the same type of play. Therefore the best advice here is to review details of what, and how the scene would play out.
+
+For the un-initiated, or even if you are new to a particular type of scene, curiosity is often the ideal approach. The more questions you ask, the better equipped you will be to decide whether or not you even wish to proceed.
+
+### The Next Steps
