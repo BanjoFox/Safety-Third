@@ -1,6 +1,6 @@
 +++
 weight = 45
-title = "Art of Negotiation"
+title = "Negotiation Checklist"
 description = ""
 
 date = "2026-02-18"
@@ -33,4 +33,4 @@ The goal, and purpose of this document is to provide some insight, and perhaps i
 
 - What physical limitations do you have/need respected?
 - What mental limitations do you have/need respected?
-- 
+-
